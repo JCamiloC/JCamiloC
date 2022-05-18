@@ -3,7 +3,7 @@
 I have experience in MEAN Stack, I know how to work with SCRUM methodology, I have extensive knowledge about HTML5 CSS and JS, also libraries as Jquery and Bootsrap;
 Finally I'm so eager to gain more knowledge every time and improve my skills in this field.
 
-You can know more about me at [Linkedin Profile]([https://link-url-here.org](https://www.linkedin.com/in/jcamiloc/))  
+You can know more about me at [Linkedin Profile]([https://www.linkedin.com/in/jcamiloc/])
 
 <!--
 **JCamiloC/JCamiloC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
